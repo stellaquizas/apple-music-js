@@ -4,6 +4,9 @@ Built by **Tanner Villarete**
 
 Connect with me on [LinkedIn](https://linkedin.com/in/tvillarete)! I'll be graduating soon ;)
 
+
+# testing from vscode -stella
+
 # How far can JavaScript take us?
 
 Turns out, pretty dang far. This web app was my attempt at mimicking Apple's iOS music app, and I think I've come pretty close! 
